@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="swingApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/swingApp_jar</output-path>
+    <root id="archive" name="swingApp.jar">
+      <element id="module-output" name="swingApp" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/bcprov-jdk18on-1.79.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
